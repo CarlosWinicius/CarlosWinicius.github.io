@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://carloswinicius.github.io/sitemap.xml
