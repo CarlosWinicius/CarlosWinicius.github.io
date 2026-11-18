@@ -1,4 +1,4 @@
-name: Deploy Wita Game Hub
+name: Deploy site Wita
 
 on:
   push:

@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#c8ff36"/><path d="M16 15h10v22h12V15h10v34H16z" fill="#080a12"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 40" width="184" height="80" role="img" aria-labelledby="t">
+  <title id="t">Wita</title>
+  <g fill="none" stroke="#1f7a5c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 8 11 34 20 14 29 34 37 8"/>
+    <path d="M47 18V34"/>
+    <path d="M58 8V28Q58 34 64 34M52 18H65"/>
+    <circle cx="80" cy="26" r="8"/>
+    <path d="M88 18V34"/>
+  </g>
+  <circle cx="47" cy="8" r="3.2" fill="#1f7a5c"/>
+</svg>

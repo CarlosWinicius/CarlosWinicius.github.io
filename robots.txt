@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://carloswinicius.github.io/sitemap.xml
+Sitemap: https://www.wita.com.br/sitemap.xml
